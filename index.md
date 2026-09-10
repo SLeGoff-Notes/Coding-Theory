@@ -1,6 +1,6 @@
-# Stephane Le Goff's coding theory for digital communications portfolio
+# Coding Theory for Digital Communications
 
-Welcome to Dr Le Goff's collection of writings on coding techniques in the context of digital communications. The aim has not been to provide an exhaustive list of all the existing techniques, but instead focus on the most significant ones from a historical perspective and explain in great detail the principles that underlie them.   
+Welcome to Stephane Le Goff's collection of writings on coding techniques in the context of digital communications. The aim has not been to provide an exhaustive list of all the existing techniques, but instead focus on the most significant ones from a historical perspective and explain in great detail the principles that underlie them.   
 * [Introduction to error-correcting codes and Shannon theory](Coding Theory - Part 1 to 4.pdf) 
 * [General concepts of error-correcting codes](Coding Theory - Part 5.pdf)
 * [Block codes, with an emphasis on foundational 1960s LDPC codes](Coding Theory - Part 6.pdf)
