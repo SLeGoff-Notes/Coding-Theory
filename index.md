@@ -4,13 +4,13 @@ Welcome to Stephane Le Goff's collection of writings on coding techniques in the
 
 * [Introduction to error-correcting codes and Shannon theory](Coding Theory - Part 1 to 4.pdf) 
 * [General concepts of error-correcting codes](Coding Theory - Part 5.pdf)
-* [Block codes, with an emphasis on foundational 1960s LDPC codes](Coding Theory - Part 6.pdf)
+* [Block codes, with an emphasis on 1960s LDPC codes](Coding Theory - Part 6.pdf)
 * [Convolutional codes](Coding Theory - Part 7.pdf)
 * [Turbo codes - Part 1](Coding Theory - Part 8.pdf)
 * [Turbo codes - Part 2](Coding Theory - Part 9.pdf)
 * [LDPC codes - Coming soon]()
 
-* You can check your knowledge and understanding of the subject by taking the tests below.
+You can check your knowledge and understanding of the subject by taking the tests below.
 * [Test 1](Coding Theory - Test 1.pdf)
 
 Detailed solutions to these tests are provided below.
