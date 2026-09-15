@@ -13,7 +13,9 @@ Welcome to Stephane Le Goff's collection of writings on coding techniques in the
 You can check your knowledge and understanding of the subject by taking the tests below.
 * [Test 1](Coding Theory - Test 1.pdf)
 * [Test 2](Coding Theory - Test 2.pdf)
+* [Test 3](Coding Theory - Test 3.pdf)
 
 Detailed solutions to these tests are provided below.
 * [Solutions to Test 1](Coding Theory - Test 1 - Solutions.pdf)
 * [Solutions to Test 2](Coding Theory - Test 2 - Solutions.pdf)
+* [Solutions to Test 3](Coding Theory - Test 3 - Solutions.pdf)
